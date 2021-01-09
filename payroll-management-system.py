@@ -3,7 +3,7 @@
 '''
 from os import remove, rename
 
-#Addition of records for New Employees in Employee File
+# Addition of records for New Employees in Employee File
 def addrec():
     p = []
     no = empcode()    
