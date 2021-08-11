@@ -1,6 +1,3 @@
-'''
-                    PAYROLL MANAGEMENT SYSTEM                                                                     
-'''
 from os import remove, rename
 
 # Addition of records for New Employees in Employee File
